@@ -1,0 +1,16 @@
+﻿<root>
+  <content introurl="swf/pageintro.swf">
+    <item date="1980" pageurl="swf/page1980.swf" thumburl="images/timelinethumb1980.jpg">Mark Hughes launches Herbalife</item>
+    <item date="1982" pageurl="swf/page1982.swf" thumburl="images/timelinethumb1982.jpg">Herbalife goes international</item>
+    <item date="1986" pageurl="swf/page1986.swf" thumburl="images/timelinethumb1986.jpg">Herbalife opens trading on the NASDAQ exchange</item>
+    <item date="1988" pageurl="swf/page1988.swf" thumburl="images/timelinethumb1988.jpg">The company expands internationally</item>
+    <item date="1992" pageurl="swf/page1992.swf" thumburl="images/timelinethumb1992.jpg">Cutting-edge products launch</item>
+    <item date="1994" pageurl="swf/page1994.swf" thumburl="images/timelinethumb1994.jpg">Mark Hughes unveils the Herbalife Family Foundation</item>
+    <item date="1996" pageurl="swf/page1996.swf" thumburl="images/timelinethumb1996.jpg">Herbalife reaches the $1 billion milestone</item>
+    <item date="1998" pageurl="swf/page1998.swf" thumburl="images/timelinethumb1998.jpg">19 new products launch</item>
+    <item date="2000" pageurl="swf/page2000.swf" thumburl="images/timelinethumb2000.jpg">Herbalife celebrates its 20th anniversary</item>
+    <item date="2003" pageurl="swf/page2003.swf" thumburl="images/timelinethumb2003.jpg">Herbalife sales exceed $1.8 billion</item>
+    <item date="2004" pageurl="swf/page2004.swf" thumburl="images/timelinethumb2004.jpg">Herbalife launches ShapeWorks™ and goes public</item>
+    <item date="2005" pageurl="swf/page2005.swf" thumburl="images/timelinethumb2005.jpg">Herbalife's Silver Anniversary!</item>
+  </content>
+</root>
